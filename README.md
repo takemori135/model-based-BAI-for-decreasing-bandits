@@ -1,5 +1,9 @@
 # Source Code for "Model-Based Best Arm Identification for Decreasing Bandits"
 
+This repository provides source code for the following paper.
+
+S. Takemori, Y. Umeda, A. Gopalan, Model-Based Best Arm Identification for Decreasing Bandits, AISTATS 2024
+
 ## Dependencies
 We use the Python programming language for implementation.
 Dependencies can be install as follows:
